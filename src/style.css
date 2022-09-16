@@ -1,13 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
 
+
 /* Generic styles */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+
 /* html tags styles */
+
 body {
     background-image: url("../imagens/Fundo.jpg");
     background-position: top center;
@@ -20,21 +24,57 @@ body * {
     font-family:'Inter', sans-serif;
 }
 
+
+header {
+    margin-top: 32px;
+}
+
+header div {
+    width: 120px;
+    margin: auto;
+    border-radius: 50%;
+    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    display: flex;
+    padding: 4px;
+}
+
+header img {
+    width: 100%; 
+    border-radius: 50%;
+
+}
+
 main {
     max-width: 580px;
     width: 90%;
-    margin: auto;
+    margin: 32px auto;
+
+    display: grid;
+    gap: 24px;
 }
 
 ul {
     list-style: none;
     display: flex;
     gap: 16px;
+    margin-top: 24px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 section {
     color: #fff;
     line-height: 160%;
+
+    padding-top: 4px;
+    border-radius: 10px;
+    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+}
+
+section div {
+    background-color: #2A2634;
+    padding: 24px 32px;
+    border-radius: 8px;
 }
 
 section h2 {
@@ -44,4 +84,25 @@ section h2 {
 section p {
     letter-spacing: -0.18px;
     color: #A1A1AA;
+}
+
+
+/* section - 01: drama styles  */
+
+.drama_list img {
+    width: 90px;
+    height: 130px;
+    border-radius: 8px;
+}
+
+.book-list img {
+    width: 90px;
+    height: 130px;
+    border-radius: 8px;
+}
+
+.channel-list img {
+    width: 70px;
+    border-radius: 50%;
+    border: 1px solid #443E54;
 }
