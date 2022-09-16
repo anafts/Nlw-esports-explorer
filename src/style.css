@@ -28,4 +28,20 @@ main {
 
 ul {
     list-style: none;
+    display: flex;
+    gap: 16px;
+}
+
+section {
+    color: #fff;
+    line-height: 160%;
+}
+
+section h2 {
+    letter-spacing: -0.47px;
+}
+
+section p {
+    letter-spacing: -0.18px;
+    color: #A1A1AA;
 }
