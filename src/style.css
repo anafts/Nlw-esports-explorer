@@ -133,6 +133,10 @@ section ul li:hover {
     border: 1px solid #443E54;
 }
 
+.social-list img {
+    width: 30px;
+}
+
 
 /* Animation */
 
