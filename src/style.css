@@ -1,4 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
 
+/* Generic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* html tags styles */
 body {
     background-image: url("../imagens/Fundo.jpg");
     background-position: top center;
@@ -6,9 +15,17 @@ body {
     background-repeat: no-repeat;
     background-color: #121214;
 }
+ 
+body * {
+    font-family:'Inter', sans-serif;
+}
 
 main {
     max-width: 580px;
     width: 90%;
     margin: auto;
+}
+
+ul {
+    list-style: none;
 }
