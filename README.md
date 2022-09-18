@@ -25,7 +25,7 @@
 
 # 
 
-## Aprendizagem 
+## 📚 Aprendizagem 
 
 O pomo bot foi a primeira landing page que desenvolvi, com o projeto aprendi 
 - Animações
