@@ -28,10 +28,10 @@
 ## 📚 Learning
 
 O pomo bot foi a primeira landing page que desenvolvi, com o projeto aprendi 
-- Animações
-- pseudo-classe: nth-child()
-- Propriedade transform
-- Propriedade transition
+- Animações;
+- pseudo-classe: nth-child();
+- Propriedade transform;
+- Propriedade transition;
 
 #
 
