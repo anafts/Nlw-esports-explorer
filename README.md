@@ -1,11 +1,11 @@
-# NLW Esports
+# NLW Esports 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Nlw-esports-explorer?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/Nlw-esports-explorer?style=for-the-badge)
 
 ![preview](./.github/preview.png)
 
-## 💻 Descrição do projeto 
+## 💻 Descrição do projeto:
  O projeto foi desenvolvido durante o evento Next Level Week da Rocketseat, com algumas modificações feitas por mim. 
 
 
@@ -28,4 +28,3 @@
 - pseudo-classe: nth-child();
 - Propriedade transform;
 - Propriedade transition;
-
