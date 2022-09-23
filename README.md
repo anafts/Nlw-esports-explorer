@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Nlw-esports-explorer?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/Nlw-esports-explorer?style=for-the-badge)
 
-![preview](./.github/preview.png) 
+![anafts github io_Nlw-esports-explorer_](https://user-images.githubusercontent.com/106173948/192027080-2e7d9841-d6ee-4035-80e4-c5aa822b61c4.png)
 
 
 ## 💻 Descrição do projeto:
