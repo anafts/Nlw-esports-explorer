@@ -1,4 +1,5 @@
-# NLW Esports 
+<h1 align="center"><a href="#" alt="NLW Esports "> NLW Esports </a></h1>
+
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Nlw-esports-explorer?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/Nlw-esports-explorer?style=for-the-badge)
